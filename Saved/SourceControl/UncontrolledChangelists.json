@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/Distaction_Rock/RockAudioCue.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/Distaction_Rock/RockDistactionBP.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/Distaction_Rock/385938__pol__s020-rock-impact-mono.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/Distaction_Rock/AI_RockNoise.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RG/7KO2ULB2M22MYXHKRLQQHX.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U1/6O0CPLFGWHO8H1G8XMIKDY.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S7/28LMMOHGFS9TKRKSKD4J1Y.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/5G/P9T64NOVTCIPTNF9904D3I.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XX/UA2LGOANOANEJL07WIF8EZ.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BV/RYXM1TV559YZFSSCJKP6R1.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6K/6W6E3SJ66P0S0TOR4WQ8VC.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_DistractEnemy/Content/ThirdPerson/Blueprints/AI_RockNoise.uasset"
+			]
+		}
+	]
+}
